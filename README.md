@@ -179,29 +179,6 @@ ASR-Model-Benchmarking/
 ```
 
 ---
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/ASR-Model-Benchmarking.git
-```
-
-Move into the project directory:
-
-```bash
-cd ASR-Model-Benchmarking
-```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Usage
 
 Run the Jupyter Notebook:
