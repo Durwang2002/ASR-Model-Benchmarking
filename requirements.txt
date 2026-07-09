@@ -1,0 +1,17 @@
+numpy==1.24.4
+pandas==1.5.3
+torch==2.8.0
+tensorflow==2.12.0
+openai-whisper
+faster-whisper
+transformers
+datasets
+torchaudio
+librosa
+soundfile
+jiwer
+psutil
+tqdm
+matplotlib
+
+I used the CPU version of PyTorch in your environment (2.8.0+cpu). For portability, it's common to list torch==2.8.0 in requirements.txt, and users install the appropriate CPU/GPU build for their system.
