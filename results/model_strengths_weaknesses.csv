@@ -1,0 +1,4 @@
+Model,Major Strength,Main Limitation,Best Use Case,Overall Assessment
+Whisper Base,Balanced accuracy with simple implementation,Not the highest accuracy in this benchmark,General-purpose speech recognition,Balanced
+Faster-Whisper Base,Lowest additional memory usage,Lower accuracy and slower inference than the other evaluated models on this hardware,Memory-constrained deployments,Resource Efficient
+Wav2Vec2 Base,Highest accuracy and fastest inference,Higher memory consumption,High-accuracy speech recognition systems,Performance Optimized

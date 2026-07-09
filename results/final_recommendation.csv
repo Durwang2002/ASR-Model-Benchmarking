@@ -1,0 +1,5 @@
+Criteria,Recommendation
+Recommended Model,Whisper Base
+Primary Reason,"Balanced accuracy, moderate resource usage, and strong suitability for noisy multi-accent speech."
+Expected Deployment,Customer Support Voice Assistant
+Research Confidence,High

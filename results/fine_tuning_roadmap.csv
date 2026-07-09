@@ -1,0 +1,6 @@
+Phase,Objective
+Data Collection,Collect representative customer support audio
+Data Preparation,Clean and prepare transcripts
+Model Fine-Tuning,Adapt the model to domain-specific speech
+Model Validation,Measure quality using benchmark metrics
+Production Deployment,Deploy the validated model for production use

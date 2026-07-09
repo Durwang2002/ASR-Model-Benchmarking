@@ -1,0 +1,7 @@
+Component,Purpose
+Client Application,Receives customer voice input
+API Gateway,Routes incoming requests securely
+Audio Preprocessing,"Performs noise reduction, silence trimming, and audio normalization"
+ASR Inference Service,Runs Whisper Base to generate speech transcripts
+Post-processing,Formats transcripts and prepares output for downstream AI systems
+Monitoring & Logging,"Tracks latency, resource usage, and transcription quality"

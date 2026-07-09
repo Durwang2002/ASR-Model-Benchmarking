@@ -1,0 +1,7 @@
+Evaluation Factor,Importance,Recommended Model
+Recognition Accuracy,High,Wav2Vec2 Base
+Inference Speed,Medium,Wav2Vec2 Base
+Memory Usage,Medium,Faster-Whisper Base
+Implementation Simplicity,High,Whisper Base
+Production Readiness,High,Whisper Base
+Noisy Speech Suitability,High,Whisper Base

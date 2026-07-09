@@ -1,0 +1,4 @@
+Model,Average WER,Average Time (sec),Average Memory (MB),Setup Complexity,Accuracy (%)
+Whisper Base,0.0569,1.4167,1.9967,Low,94.31
+Faster-Whisper Base,0.0643,1.3857,0.9492,Medium,93.57
+Wav2Vec2 Base,0.0341,1.0449,50.7329,Medium,96.59

@@ -1,0 +1,4 @@
+Model,Installation,Dependencies,Implementation,Deployment,Overall_Complexity
+Whisper Base,Easy,Few,Simple,Easy,Low
+Faster-Whisper Base,Medium,Moderate,Moderate,Easy,Medium
+Wav2Vec2 Base,Medium,Moderate,Moderate,Moderate,Medium

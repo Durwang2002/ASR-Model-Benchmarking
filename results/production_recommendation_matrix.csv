@@ -1,0 +1,6 @@
+Deployment Scenario,Recommended Model
+Research & Experimentation,Whisper Base
+Production API,Whisper Base
+Low Memory Device,Faster-Whisper Base
+Highest Accuracy Required,Wav2Vec2 Base
+Balanced General Deployment,Whisper Base
