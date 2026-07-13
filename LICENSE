@@ -1,1 +1,20 @@
+## License
 
+This project is licensed under the **MIT License**.
+
+The source code developed for this project may be used, modified, and distributed under the terms of the MIT License.
+
+Third-party models, datasets, and libraries used in this research are subject to their respective licenses. Users are responsible for reviewing and complying with those license terms before using them in research or production environments.
+
+### Third-Party Resources
+
+- LibriSpeech Dataset
+- OpenAI Whisper
+- Faster-Whisper
+- Facebook AI Wav2Vec2
+- PyTorch
+- TensorFlow
+- Hugging Face Transformers
+- JiWER
+
+See the respective official documentation for complete licensing information.
